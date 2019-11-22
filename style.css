@@ -1,0 +1,21 @@
+body {
+    background-color: lightgreen;
+}
+h1{
+    font-style: Arial;
+}
+img {
+    border: 2px solid red;
+}
+.navbar ul{
+    display: inline-flex;
+    margin: 50px;
+}
+.navbar ul li {
+    list-style: none;
+    margin: 0 20px;
+}
+.navbar li a {
+    text-decoration: none;
+}
+
